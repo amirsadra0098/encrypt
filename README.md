@@ -33,35 +33,14 @@ Written by: @sdr_vob (https://github.com/amirsadra0098)
 ## AMIRSADRA
 
 
-
-
- 0098                                                                                                                            
+0098                                                                                                                            
 ## 🔖 About
 
 We have created this tool that many new people come in the world of pen testing & Ethical Hacking. They do not know much about the basics. So this tool has been created to help them. I hope you share this tool with your new friends.
 
-[ **DISCLAIMER** ] **:** This is only for testing purposes and can only be used where strict consent has been given. Do not use this for illegal purposes, period.
-
-# 📃 Features
-
-### [ Most Useful Nmap Cmd ] :
-* website Host Discovery
-* website Os Discovery
-* website Port Discovery
-* website Port Range Discovery
-* ping Scan The Network-listing Machines
-
 ### Password Tools :
 * username : 36sdr
 * password : ?????
-
-
-### Exploitation Tools :
-* ATSCAN
-* sqlmap
-* fsociety
-* Commix
-* Bettercap
 
 
 ## 🎨 Tested on
@@ -69,12 +48,9 @@ We have created this tool that many new people come in the world of pen testing 
 * Parrot-Sec 
 
 # ⏳ Installation
-
-**make sure your apt-get isn't broken before you run this**
-
 **RUN THIS AS ROOT**
 
-```bash
+```
 $ git clone https://github.com/amirsadra0098/encrypt
 $ pip install colorama
 $ pip install marshal
